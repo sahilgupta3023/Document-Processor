@@ -1,4 +1,4 @@
-# Intelligent Document Processor 
+# Document Processor 
 
 The Streamlit application allows users to upload or select a PDF document, extract text using Google Gemini's OCR capabilities, summarize its content, and ask questions about it using Retrieval Augmented Generation (RAG). 
 
@@ -8,7 +8,7 @@ The Streamlit application allows users to upload or select a PDF document, extra
 Open your terminal or command prompt and run the following command:
 
     ``` bash
-    git clone https://github.com/sanjulikasharma/Intelligent-Document-Processor.git
+    git clone https://github.com/sahilgupta3023/Document-Processor.git
     ```
 ### Step 2: Install Dependencies using `requirements.txt`
     ``` bash
