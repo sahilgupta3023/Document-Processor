@@ -22,7 +22,7 @@ Navigate to the project directory in your terminal or command prompt (if you're 
     ```
 This will start the Streamlit server, and your application will open in your default web browser.
 
-**Screen recording:** _ https://drive.google.com/file/d/15T3VY0I0kFL5ENnBGvhAlwY8Wt3Idcqj/view?usp=sharing _
+**Screen recording:** _ https://drive.google.com/file/d/1EGpfBz8NLP8x-cJ0_nmp3BUHfs2D2aUX/view?usp=drive_link _
 
 **After entering the Google Gemini API key, you can upload your pdf or use the default 'The Gift of Magi' pdf to generate a summary & ask questions related to the pdf.'**
 ## Dependencies
